@@ -1,0 +1,20 @@
+
+Se realizará una base de datos para un campeonato de futbol de barrio, la cual debe tener la información de Equipos, Directores Técnicos,
+ Patrocinadores, Árbitros, y calendario de partidos.
+-Por cada equipo: Director de equipo,  Jugadores (por cada jugador se debe asignar su Nombre, Posición de juego,
+ numero de camiseta único (No se debe repetir), edad, teléfono, dirección. 
+Se debe tener en cuenta que para cada   equipo son máximo 15 jugadores.
+
+-Para cada director debe existir: Nombre del director, equipo que dirige, Edad, teléfono. 
+
+-Por cada patrocinador: Nombre del patrocinador, empresa a la que pertenece, Recursos brindados (puede ser uno o mas recursos) , 
+Edad, Dirección , teléfono.
+
+-Por árbitros: Nombre del árbitros,   Escuela que lo formó (Para cada escuela Nombre, Dirección, teléfono) 
+ Edad, Teléfono, Dirección.
+
+-Calendario de partidos:  En esta casilla se dará la información del nombre de los equipos  que van a disputar,
+ el árbitro , la fecha ( hora, y dia)
+ 
+
+
